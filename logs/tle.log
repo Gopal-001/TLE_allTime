@@ -1,0 +1,638 @@
+15-10-2021 18:42:56:INFO:tle.util.font_downloader:Downloading font `NotoSansCJK-Bold.ttc`.
+15-10-2021 18:43:03:INFO:tle.util.font_downloader:Downloading font `NotoSansCJK-Regular.ttc`.
+15-10-2021 18:43:10:WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+15-10-2021 18:43:10:INFO:root:Cogs loaded: Contests, Handles, Dueling, Logging, Graphs, Starboard, Meta, CacheControl, Codeforces
+15-10-2021 18:43:10:INFO:discord.client:logging in using static token
+15-10-2021 18:43:12:INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+15-10-2021 18:43:12:INFO:discord.gateway:Websocket closed with 4014, cannot reconnect.
+15-10-2021 18:43:12:INFO:discord.client:Cleaning up tasks.
+15-10-2021 18:43:12:INFO:discord.client:Closing the event loop.
+15-10-2021 18:58:40:WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+15-10-2021 18:58:40:INFO:root:Cogs loaded: Contests, Handles, Dueling, Logging, Graphs, Starboard, Meta, CacheControl, Codeforces
+15-10-2021 18:58:40:INFO:discord.client:logging in using static token
+15-10-2021 18:58:42:INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+15-10-2021 18:58:42:INFO:discord.gateway:Websocket closed with 4014, cannot reconnect.
+15-10-2021 18:58:42:INFO:discord.client:Cleaning up tasks.
+15-10-2021 18:58:42:INFO:discord.client:Closing the event loop.
+15-10-2021 19:01:52:WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+15-10-2021 19:01:52:INFO:root:Cogs loaded: Contests, Handles, Dueling, Logging, Graphs, Starboard, Meta, CacheControl, Codeforces
+15-10-2021 19:01:52:INFO:discord.client:logging in using static token
+15-10-2021 19:01:54:INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+15-10-2021 19:01:54:INFO:discord.gateway:Websocket closed with 4014, cannot reconnect.
+15-10-2021 19:01:54:INFO:discord.client:Cleaning up tasks.
+15-10-2021 19:01:54:INFO:discord.client:Closing the event loop.
+15-10-2021 19:06:37:WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+15-10-2021 19:06:37:INFO:root:Cogs loaded: Contests, Handles, Dueling, Logging, Graphs, Starboard, Meta, CacheControl, Codeforces
+15-10-2021 19:06:37:INFO:discord.client:logging in using static token
+15-10-2021 19:06:38:INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+15-10-2021 19:06:38:INFO:discord.gateway:Websocket closed with 4014, cannot reconnect.
+15-10-2021 19:06:38:INFO:discord.client:Cleaning up tasks.
+15-10-2021 19:06:38:INFO:discord.client:Closing the event loop.
+15-10-2021 19:06:45:WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+15-10-2021 19:06:45:INFO:root:Cogs loaded: Contests, Handles, Dueling, Logging, Graphs, Starboard, Meta, CacheControl, Codeforces
+15-10-2021 19:06:45:INFO:discord.client:logging in using static token
+15-10-2021 19:06:46:INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+15-10-2021 19:06:46:INFO:discord.gateway:Websocket closed with 4014, cannot reconnect.
+15-10-2021 19:06:47:INFO:discord.client:Cleaning up tasks.
+15-10-2021 19:06:47:INFO:discord.client:Closing the event loop.
+15-10-2021 19:07:03:WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+15-10-2021 19:07:03:INFO:root:Cogs loaded: Contests, Handles, Dueling, Logging, Graphs, Starboard, Meta, CacheControl, Codeforces
+15-10-2021 19:07:03:INFO:discord.client:logging in using static token
+15-10-2021 19:07:05:INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+15-10-2021 19:07:06:INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-8357",{"micros":73237,"calls":["discord-sessions-green-prd-2-144",{"micros":70995,"calls":["start_session",{"micros":30878,"calls":["api-prd-main-7tdt",{"micros":26474,"calls":["get_user",{"micros":3077},"add_authorized_ip",{"micros":2120},"get_guilds",{"micros":3976},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":21304,"calls":[]}]}]}] (Session ID: 66d6257cec3a20d208562c0d5c0ba115).
+15-10-2021 19:07:08:INFO:RatingChangesCache:Ratings for 0 handles cached
+15-10-2021 19:07:08:WARNING:RatingChangesCache:Rating changes cache on disk is empty. This must be populated manually before use.
+15-10-2021 19:07:08:INFO:Task:Starting up task `RatingChangesCacheUpdate`.
+15-10-2021 19:07:08:INFO:Task:Starting up task `RanklistCacheUpdate`.
+15-10-2021 19:07:08:INFO:ContestCache:Contest cache on disk is empty.
+15-10-2021 19:07:08:INFO:Task:Starting up task `ContestCacheUpdate`.
+15-10-2021 19:07:08:INFO:ProblemCache:Problem cache on disk is empty.
+15-10-2021 19:07:08:INFO:Task:Starting up task `ProblemCacheUpdate`.
+15-10-2021 19:07:08:WARNING:ProblemsetCache:Problemset cache on disk is empty. This must be populated manually before use.
+15-10-2021 19:07:08:INFO:Task:Starting up task `ProblemsetCacheUpdate`.
+15-10-2021 19:07:08:WARNING:tle.util.codeforces_common:JSON file containing contest writers not found
+15-10-2021 19:07:08:INFO:Task:Starting up task `ContestCogUpdate`.
+15-10-2021 19:07:08:INFO:Task:Starting up task `WatchRatedVCs`.
+15-10-2021 19:07:08:INFO:Task:Starting up task `SetExUsersInactive`.
+15-10-2021 19:07:08:Level 100:Logging:*******************************************************************************
+15-10-2021 19:07:08:Level 100:Logging:***                               Bot running                               ***
+15-10-2021 19:07:08:Level 100:Logging:*******************************************************************************
+15-10-2021 19:07:08:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 19:07:08:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/problemset.problems with {}
+15-10-2021 19:07:08:INFO:ProblemsetCache:Saved 0 problems to database.
+15-10-2021 19:07:08:INFO:ProblemsetCache:0 new problems saved and 0 saved problems updated.
+15-10-2021 19:07:08:WARNING:Logging:Logging channel not available, disabling Discord log handler.
+15-10-2021 19:07:10:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 19:07:10:INFO:ContestCache:1522 contests stored in database
+15-10-2021 19:07:10:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 19:07:10:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 19:07:10:INFO:Contests:Refreshed cache
+15-10-2021 19:07:10:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 19:07:10:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 19:07:10:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 19:07:10:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 19:07:11:INFO:ProblemCache:7300 problems fetched from API
+15-10-2021 19:07:11:INFO:ProblemCache:Keeping 6743 problems
+15-10-2021 19:07:11:INFO:ProblemCache:6743 problems stored in database
+15-10-2021 19:08:08:INFO:Task:Starting up task `OrzUpdate`.
+15-10-2021 19:09:10:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 19:09:11:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 19:09:11:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 19:11:11:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 19:11:11:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 19:11:11:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 19:12:10:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 19:12:11:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 19:12:11:INFO:ContestCache:1522 contests stored in database
+15-10-2021 19:12:11:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 19:12:11:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 19:12:11:INFO:Contests:Refreshed cache
+15-10-2021 19:12:11:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 19:12:11:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 19:12:11:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 19:12:11:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 19:12:11:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 19:14:11:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 19:14:17:WARNING:tle.util.codeforces_api:CF API did not respond with JSON, status 504.
+15-10-2021 19:14:17:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. CodeforcesApiError('Codeforces API error')
+15-10-2021 19:16:17:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 19:16:17:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 19:16:17:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 19:17:11:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 19:17:12:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 19:17:12:INFO:ContestCache:1522 contests stored in database
+15-10-2021 19:17:12:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 19:17:12:INFO:Contests:Refreshed cache
+15-10-2021 19:17:12:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 19:17:12:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 19:17:12:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 19:17:12:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 19:17:12:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 19:17:12:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 19:19:06:ERROR:tle.util.discord_common:Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "CSES" is not found
+15-10-2021 19:19:12:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 19:19:13:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 19:19:13:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 19:19:58:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/user.status with {'handle': 'Sameer_Mishra100'}
+15-10-2021 19:20:10:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/user.status with {'handle': 'ramuked'}
+15-10-2021 19:21:13:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 19:21:14:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 19:21:14:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 19:22:01:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/user.status with {'handle': 'manasd28'}
+15-10-2021 19:22:12:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 19:22:13:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 19:22:13:INFO:ContestCache:1522 contests stored in database
+15-10-2021 19:22:13:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 19:22:13:INFO:Contests:Refreshed cache
+15-10-2021 19:22:13:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 19:22:13:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 19:22:13:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 19:22:13:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 19:22:13:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 19:22:13:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 19:22:35:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1576, 'from': 1, 'count': 1}
+15-10-2021 19:22:38:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1593, 'from': 1, 'count': 1}
+15-10-2021 19:22:39:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1598, 'from': 1, 'count': 1}
+15-10-2021 19:22:39:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1599, 'from': 1, 'count': 1}
+15-10-2021 19:22:40:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1600, 'from': 1, 'count': 1}
+15-10-2021 19:22:40:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1594, 'from': 1, 'count': 1}
+15-10-2021 19:22:40:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1571, 'from': 1, 'count': 1}
+15-10-2021 19:22:41:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1570, 'from': 1, 'count': 1}
+15-10-2021 19:22:41:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1592, 'from': 1, 'count': 1}
+15-10-2021 19:22:42:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1575, 'from': 1, 'count': 1}
+15-10-2021 19:22:42:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1578, 'from': 1, 'count': 1}
+15-10-2021 19:22:42:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1580, 'from': 1, 'count': 1}
+15-10-2021 19:22:43:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1581, 'from': 1, 'count': 1}
+15-10-2021 19:22:43:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1579, 'from': 1, 'count': 1}
+15-10-2021 19:22:44:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1574, 'from': 1, 'count': 1}
+15-10-2021 19:22:45:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1572, 'from': 1, 'count': 1}
+15-10-2021 19:22:45:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1573, 'from': 1, 'count': 1}
+15-10-2021 19:22:45:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1566, 'from': 1, 'count': 1}
+15-10-2021 19:22:46:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1569, 'from': 1, 'count': 1}
+15-10-2021 19:22:47:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1567, 'from': 1, 'count': 1}
+15-10-2021 19:22:48:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1556, 'from': 1, 'count': 1}
+15-10-2021 19:22:48:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1562, 'from': 1, 'count': 1}
+15-10-2021 19:22:49:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1558, 'from': 1, 'count': 1}
+15-10-2021 19:22:49:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1561, 'from': 1, 'count': 1}
+15-10-2021 19:22:50:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1563, 'from': 1, 'count': 1}
+15-10-2021 19:22:50:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1560, 'from': 1, 'count': 1}
+15-10-2021 19:22:51:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1559, 'from': 1, 'count': 1}
+15-10-2021 19:22:52:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1557, 'from': 1, 'count': 1}
+15-10-2021 19:22:53:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1548, 'from': 1, 'count': 1}
+15-10-2021 19:22:53:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1549, 'from': 1, 'count': 1}
+15-10-2021 19:22:54:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1555, 'from': 1, 'count': 1}
+15-10-2021 19:22:56:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1554, 'from': 1, 'count': 1}
+15-10-2021 19:22:57:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1552, 'from': 1, 'count': 1}
+15-10-2021 19:22:57:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1551, 'from': 1, 'count': 1}
+15-10-2021 19:22:58:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1553, 'from': 1, 'count': 1}
+15-10-2021 19:22:59:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1530, 'from': 1, 'count': 1}
+15-10-2021 19:22:59:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1544, 'from': 1, 'count': 1}
+15-10-2021 19:23:00:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1550, 'from': 1, 'count': 1}
+15-10-2021 19:23:00:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1545, 'from': 1, 'count': 1}
+15-10-2021 19:23:01:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1546, 'from': 1, 'count': 1}
+15-10-2021 19:23:01:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1547, 'from': 1, 'count': 1}
+15-10-2021 19:23:02:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1543, 'from': 1, 'count': 1}
+15-10-2021 19:23:03:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1542, 'from': 1, 'count': 1}
+15-10-2021 19:23:04:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1533, 'from': 1, 'count': 1}
+15-10-2021 19:23:04:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1532, 'from': 1, 'count': 1}
+15-10-2021 19:23:05:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1540, 'from': 1, 'count': 1}
+15-10-2021 19:23:05:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1541, 'from': 1, 'count': 1}
+15-10-2021 19:23:06:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1539, 'from': 1, 'count': 1}
+15-10-2021 19:23:07:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1537, 'from': 1, 'count': 1}
+15-10-2021 19:23:08:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1534, 'from': 1, 'count': 1}
+15-10-2021 19:23:08:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1538, 'from': 1, 'count': 1}
+15-10-2021 19:23:09:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1536, 'from': 1, 'count': 1}
+15-10-2021 19:23:10:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1535, 'from': 1, 'count': 1}
+15-10-2021 19:23:11:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1522, 'from': 1, 'count': 1}
+15-10-2021 19:23:11:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1531, 'from': 1, 'count': 1}
+15-10-2021 19:23:12:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1523, 'from': 1, 'count': 1}
+15-10-2021 19:23:12:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1524, 'from': 1, 'count': 1}
+15-10-2021 19:23:30:INFO:discord.client:Cleaning up tasks.
+15-10-2021 19:23:30:INFO:discord.client:Cleaning up after 12 tasks.
+15-10-2021 19:23:30:INFO:discord.client:All tasks finished cancelling.
+15-10-2021 19:23:30:INFO:discord.client:Closing the event loop.
+15-10-2021 19:58:12:WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+15-10-2021 19:58:12:INFO:root:Cogs loaded: Contests, Handles, Dueling, Logging, Graphs, Starboard, Meta, CacheControl, Codeforces
+15-10-2021 19:58:12:INFO:discord.client:logging in using static token
+15-10-2021 19:58:14:INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+15-10-2021 19:58:14:INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-00p9",{"micros":47339,"calls":["discord-sessions-green-prd-2-90",{"micros":45850,"calls":["start_session",{"micros":30804,"calls":["api-prd-main-cphl",{"micros":27212,"calls":["get_user",{"micros":3427},"add_authorized_ip",{"micros":1151},"get_guilds",{"micros":3516},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: 4e0ff516fcefce30e176e5be79644dc3).
+15-10-2021 19:58:16:INFO:RatingChangesCache:Ratings for 0 handles cached
+15-10-2021 19:58:16:WARNING:RatingChangesCache:Rating changes cache on disk is empty. This must be populated manually before use.
+15-10-2021 19:58:16:INFO:Task:Starting up task `RatingChangesCacheUpdate`.
+15-10-2021 19:58:16:INFO:Task:Starting up task `RanklistCacheUpdate`.
+15-10-2021 19:58:16:INFO:ContestCache:1522 contests fetched from disk
+15-10-2021 19:58:16:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 19:58:16:INFO:Task:Starting up task `ContestCacheUpdate`.
+15-10-2021 19:58:16:INFO:ProblemCache:6743 problems fetched from disk
+15-10-2021 19:58:16:INFO:Task:Starting up task `ProblemCacheUpdate`.
+15-10-2021 19:58:16:WARNING:ProblemsetCache:Problemset cache on disk is empty. This must be populated manually before use.
+15-10-2021 19:58:16:INFO:Task:Starting up task `ProblemsetCacheUpdate`.
+15-10-2021 19:58:16:WARNING:tle.util.codeforces_common:JSON file containing contest writers not found
+15-10-2021 19:58:16:INFO:Task:Starting up task `ContestCogUpdate`.
+15-10-2021 19:58:16:INFO:Task:Starting up task `WatchRatedVCs`.
+15-10-2021 19:58:16:INFO:Task:Starting up task `SetExUsersInactive`.
+15-10-2021 19:58:16:Level 100:Logging:*******************************************************************************
+15-10-2021 19:58:16:Level 100:Logging:***                               Bot running                               ***
+15-10-2021 19:58:16:Level 100:Logging:*******************************************************************************
+15-10-2021 19:58:16:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 19:58:16:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/problemset.problems with {}
+15-10-2021 19:58:16:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1578, 'from': 1, 'count': 1}
+15-10-2021 19:58:16:WARNING:Logging:Logging channel not available, disabling Discord log handler.
+15-10-2021 19:58:17:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1570, 'from': 1, 'count': 1}
+15-10-2021 19:58:18:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1575, 'from': 1, 'count': 1}
+15-10-2021 19:58:18:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 19:58:18:INFO:ContestCache:1522 contests stored in database
+15-10-2021 19:58:18:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 19:58:18:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 19:58:18:INFO:Contests:Refreshed cache
+15-10-2021 19:58:18:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 19:58:18:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 19:58:18:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1592, 'from': 1, 'count': 1}
+15-10-2021 19:58:18:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 19:58:18:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 19:58:19:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1571, 'from': 1, 'count': 1}
+15-10-2021 19:58:19:INFO:ProblemCache:7300 problems fetched from API
+15-10-2021 19:58:19:INFO:ProblemCache:Keeping 6743 problems
+15-10-2021 19:58:19:INFO:ProblemCache:6743 problems stored in database
+15-10-2021 19:58:19:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1594, 'from': 1, 'count': 1}
+15-10-2021 19:58:20:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1576, 'from': 1, 'count': 1}
+15-10-2021 19:58:21:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1599, 'from': 1, 'count': 1}
+15-10-2021 19:58:22:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1600, 'from': 1, 'count': 1}
+15-10-2021 19:58:22:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1598, 'from': 1, 'count': 1}
+15-10-2021 19:58:23:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1593, 'from': 1, 'count': 1}
+15-10-2021 19:58:24:INFO:ProblemsetCache:Saved 95 problems to database.
+15-10-2021 19:58:24:INFO:ProblemsetCache:95 new problems saved and 0 saved problems updated.
+15-10-2021 19:59:16:INFO:Task:Starting up task `OrzUpdate`.
+15-10-2021 20:00:18:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:00:19:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:00:19:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:02:19:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:02:20:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:02:20:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:03:15:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/user.status with {'handle': 'ramuked'}
+15-10-2021 20:03:18:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 20:03:20:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 20:03:20:INFO:ContestCache:1522 contests stored in database
+15-10-2021 20:03:20:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 20:03:20:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:03:20:INFO:Contests:Refreshed cache
+15-10-2021 20:03:20:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 20:03:20:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:03:20:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:03:20:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:03:20:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:05:20:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:05:21:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:05:21:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:07:21:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:07:21:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:07:21:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:08:20:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 20:08:21:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 20:08:21:INFO:ContestCache:1522 contests stored in database
+15-10-2021 20:08:21:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 20:08:21:INFO:Contests:Refreshed cache
+15-10-2021 20:08:21:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 20:08:21:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:08:21:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:08:21:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:08:22:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:08:22:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:10:22:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:10:23:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:10:23:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:12:23:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:12:24:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:12:24:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:13:21:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 20:13:23:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 20:13:23:INFO:ContestCache:1522 contests stored in database
+15-10-2021 20:13:23:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 20:13:23:INFO:Contests:Refreshed cache
+15-10-2021 20:13:23:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 20:13:23:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:13:23:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:13:23:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:13:23:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:13:23:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:15:23:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:15:24:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:15:24:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:17:24:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:17:25:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:17:25:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:18:27:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 20:18:28:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 20:18:28:INFO:ContestCache:1522 contests stored in database
+15-10-2021 20:18:28:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 20:18:28:INFO:Contests:Refreshed cache
+15-10-2021 20:18:28:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 20:18:28:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:18:28:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:18:28:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:18:28:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:18:28:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:20:28:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:20:30:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:20:30:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:22:30:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:22:30:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:22:30:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:23:28:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 20:23:29:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 20:23:29:INFO:ContestCache:1522 contests stored in database
+15-10-2021 20:23:29:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 20:23:29:INFO:Contests:Refreshed cache
+15-10-2021 20:23:29:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 20:23:29:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:23:29:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:23:29:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:23:30:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:23:30:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:25:30:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:25:30:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:25:30:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:27:30:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:27:31:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:27:31:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:27:57:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/user.status with {'handle': 'DynamicPranjal'}
+15-10-2021 20:28:29:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 20:28:31:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 20:28:31:INFO:ContestCache:1522 contests stored in database
+15-10-2021 20:28:31:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 20:28:31:INFO:Contests:Refreshed cache
+15-10-2021 20:28:31:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 20:28:31:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:28:31:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:28:31:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:28:31:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:28:31:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:28:38:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/user.status with {'handle': 'errichto'}
+15-10-2021 20:30:31:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:30:32:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:30:32:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:32:32:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:32:33:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:32:33:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:33:31:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 20:33:32:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 20:33:32:INFO:ContestCache:1522 contests stored in database
+15-10-2021 20:33:32:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 20:33:32:INFO:Contests:Refreshed cache
+15-10-2021 20:33:32:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 20:33:32:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:33:32:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:33:32:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:33:32:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:33:32:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:35:32:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:35:33:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:35:33:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:37:33:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:37:34:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:37:34:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:38:32:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 20:38:33:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 20:38:33:INFO:ContestCache:1522 contests stored in database
+15-10-2021 20:38:33:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 20:38:33:INFO:Contests:Refreshed cache
+15-10-2021 20:38:33:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 20:38:33:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:38:33:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:38:33:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:38:33:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:38:33:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:40:33:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:40:35:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:40:35:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:42:35:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:42:35:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:42:35:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:43:33:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 20:43:35:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 20:43:35:INFO:ContestCache:1522 contests stored in database
+15-10-2021 20:43:35:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 20:43:35:INFO:Contests:Refreshed cache
+15-10-2021 20:43:35:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 20:43:35:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:43:35:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:43:35:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:43:35:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:43:35:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:45:35:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:45:36:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:45:36:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:47:36:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:47:36:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:47:36:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:48:35:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 20:48:37:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 20:48:37:INFO:ContestCache:1522 contests stored in database
+15-10-2021 20:48:37:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 20:48:37:INFO:Contests:Refreshed cache
+15-10-2021 20:48:37:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 20:48:37:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:48:37:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:48:37:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:48:37:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:48:37:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:50:37:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:50:38:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:50:38:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:52:38:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:52:39:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:52:39:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:53:37:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 20:53:38:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 20:53:38:INFO:ContestCache:1522 contests stored in database
+15-10-2021 20:53:38:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 20:53:38:INFO:Contests:Refreshed cache
+15-10-2021 20:53:38:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 20:53:38:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:53:38:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:53:38:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:53:38:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:53:38:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:55:38:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:55:39:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:55:39:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:57:39:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:57:40:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:57:40:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 20:58:28:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1576, 'from': 1, 'count': 1}
+15-10-2021 20:58:30:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1571, 'from': 1, 'count': 1}
+15-10-2021 20:58:31:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1570, 'from': 1, 'count': 1}
+15-10-2021 20:58:32:INFO:ProblemsetCache:Saved 0 problems to database.
+15-10-2021 20:58:32:INFO:ProblemsetCache:0 new problems saved and 0 saved problems updated.
+15-10-2021 20:58:38:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 20:58:39:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 20:58:39:INFO:ContestCache:1522 contests stored in database
+15-10-2021 20:58:39:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 20:58:39:INFO:Contests:Refreshed cache
+15-10-2021 20:58:39:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 20:58:39:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:58:39:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 20:58:39:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 20:58:39:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 20:58:39:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:00:39:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:00:40:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:00:40:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:02:40:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:02:41:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:02:41:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:03:39:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 21:03:40:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 21:03:40:INFO:ContestCache:1522 contests stored in database
+15-10-2021 21:03:40:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 21:03:40:INFO:Contests:Refreshed cache
+15-10-2021 21:03:40:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 21:03:40:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 21:03:40:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 21:03:40:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:03:41:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:03:41:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:05:41:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:05:41:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:05:41:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:07:41:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:07:42:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:07:42:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:08:40:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 21:08:42:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 21:08:42:INFO:ContestCache:1522 contests stored in database
+15-10-2021 21:08:42:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 21:08:42:INFO:Contests:Refreshed cache
+15-10-2021 21:08:42:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 21:08:42:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 21:08:42:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 21:08:42:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:08:42:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:08:42:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:10:42:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:10:43:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:10:43:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:12:43:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:12:44:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:12:44:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:13:42:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 21:13:43:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 21:13:43:INFO:ContestCache:1522 contests stored in database
+15-10-2021 21:13:43:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 21:13:43:INFO:Contests:Refreshed cache
+15-10-2021 21:13:43:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 21:13:43:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 21:13:43:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 21:13:43:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:13:43:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:13:43:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:15:43:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:15:44:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:15:44:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:17:44:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:17:45:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:17:45:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:18:43:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 21:18:44:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 21:18:44:INFO:ContestCache:1522 contests stored in database
+15-10-2021 21:18:44:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 21:18:44:INFO:Contests:Refreshed cache
+15-10-2021 21:18:44:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 21:18:44:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 21:18:44:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 21:18:44:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:18:44:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:18:44:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:20:44:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:20:45:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:20:45:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:22:30:INFO:discord.client:Got a request to RESUME the websocket.
+15-10-2021 21:22:31:INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+15-10-2021 21:22:32:INFO:discord.gateway:Shard ID None has successfully RESUMED session 4e0ff516fcefce30e176e5be79644dc3 under trace ["gateway-prd-main-x7nq",{"micros":516,"calls":["discord-sessions-green-prd-2-90",{"micros":14}]}].
+15-10-2021 21:22:45:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:22:46:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:22:46:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:23:44:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 21:23:45:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 21:23:45:INFO:ContestCache:1522 contests stored in database
+15-10-2021 21:23:45:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 21:23:45:INFO:Contests:Refreshed cache
+15-10-2021 21:23:45:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 21:23:45:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 21:23:45:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 21:23:45:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:23:45:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:23:45:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:25:45:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:25:46:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:25:46:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:27:46:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:27:47:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:27:47:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:28:45:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 21:28:46:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 21:28:46:INFO:ContestCache:1522 contests stored in database
+15-10-2021 21:28:46:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 21:28:46:INFO:Contests:Refreshed cache
+15-10-2021 21:28:46:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 21:28:46:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 21:28:46:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 21:28:46:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:28:46:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:28:46:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:30:46:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:30:47:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:30:47:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:32:47:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:32:48:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:32:48:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:33:46:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 21:33:47:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 21:33:47:INFO:ContestCache:1522 contests stored in database
+15-10-2021 21:33:47:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 21:33:47:INFO:Contests:Refreshed cache
+15-10-2021 21:33:47:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 21:33:47:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 21:33:47:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 21:33:47:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:33:48:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:33:48:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:35:48:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:35:48:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:35:48:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:37:48:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:37:49:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:37:49:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:38:47:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 21:38:49:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 21:38:49:INFO:ContestCache:1522 contests stored in database
+15-10-2021 21:38:49:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 21:38:49:INFO:Contests:Refreshed cache
+15-10-2021 21:38:49:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 21:38:49:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 21:38:49:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 21:38:49:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:38:49:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:38:49:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:40:49:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:40:49:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:40:49:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:42:49:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:42:51:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:42:51:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:43:49:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 21:43:50:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 21:43:50:INFO:ContestCache:1522 contests stored in database
+15-10-2021 21:43:50:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 21:43:50:INFO:Contests:Refreshed cache
+15-10-2021 21:43:50:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 21:43:50:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 21:43:50:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 21:43:50:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:43:50:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:43:50:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:45:50:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:45:51:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:45:51:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:47:51:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:47:52:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:47:52:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:48:50:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.list with {}
+15-10-2021 21:48:51:INFO:ContestCache:1522 contests fetched from API
+15-10-2021 21:48:51:INFO:ContestCache:1522 contests stored in database
+15-10-2021 21:48:51:INFO:EventSystem:Dispatching event `ContestListRefresh`
+15-10-2021 21:48:51:INFO:Contests:Refreshed cache
+15-10-2021 21:48:51:INFO:Contests:Tasks for guild 898424115847897128 cleared
+15-10-2021 21:48:51:INFO:Task:Stopping task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 21:48:51:INFO:Task:Starting up task `RanklistCacheUpdate.MonitorActiveContests`.
+15-10-2021 21:48:51:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:48:52:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:48:52:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:50:52:INFO:tle.util.codeforces_api:Querying CF API at https://codeforces.com/api/contest.standings with {'contestId': 1595, 'showUnofficial': 'true'}
+15-10-2021 21:50:52:WARNING:tle.util.codeforces_api:Query to CF API failed: HTTP Error 400, contestId: Contest with id 1595 not found
+15-10-2021 21:50:52:WARNING:RanklistCache:Ranklist fetch failed for contest 1595. ContestNotFoundError('Contest with ID `1595` not found on Codeforces')
+15-10-2021 21:52:23:INFO:discord.client:Cleaning up tasks.
+15-10-2021 21:52:23:INFO:discord.client:Cleaning up after 11 tasks.
+15-10-2021 21:52:24:INFO:discord.client:All tasks finished cancelling.
+15-10-2021 21:52:24:INFO:discord.client:Closing the event loop.

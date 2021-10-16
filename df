@@ -1,0 +1,280 @@
+[33mcommit 51384cecd3323a5a7e2d3867f581a493fba45319[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: samaeer <sameeemishra@gmail.com>
+Date:   Sat Oct 16 09:00:19 2021 +0530
+
+    first commit
+
+[33mcommit 567e19ce2cef2b75a73141a0eafdf3f7cd74ecf2[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mohammad Iskandarany <43501040+M7mdisk@users.noreply.github.com>
+Date:   Sun Aug 22 13:40:34 2021 +0300
+
+    Add median to plot speed (#475)
+
+[33mcommit 644b9aa82767f02855ab6ca7df929d4f0f931cd5[m
+Author: Maksim Gorokhovskii <magor1744@gmail.com>
+Date:   Sat Aug 7 14:08:23 2021 +0300
+
+    Add ;plot speed (#474)
+    
+    * Add ;plot speed
+    
+    * Configurable participation type
+    
+    * Add +scatter to ;plot speed
+
+[33mcommit 52ddf01de9bfe94f7310a38ec95e6814ac268edb[m
+Author: Anton Älgmyr <algmyr@student.chalmers.se>
+Date:   Tue Jul 27 22:01:28 2021 +0200
+
+    Deactivate CSES (#471)
+
+[33mcommit 2fddbe934718bfeb32bbe3ad3bd7177111df3e84[m
+Author: Anton Älgmyr <algmyr@student.chalmers.se>
+Date:   Sun Jul 18 21:04:09 2021 +0200
+
+    Revert "Fixed issue #456 (#457)" (#467)
+    
+    This reverts commit 2c0e2e86586b51899c90c9a1fb37c38c48e40b71.
+
+[33mcommit 2c0e2e86586b51899c90c9a1fb37c38c48e40b71[m
+Author: Kent <kent05011607@gmail.com>
+Date:   Mon Jul 19 02:23:50 2021 +0800
+
+    Fixed issue #456 (#457)
+
+[33mcommit 7093a569b9fdb5fd33f686ceac3915925e1aca29[m
+Author: Mislav Blažević <mislav.blazevic5@gmail.com>
+Date:   Thu Jul 15 19:22:01 2021 +0200
+
+    Patch more vulnerabilities and some cosmetic fixes (#466)
+    
+    * Patch more vulnerabilities and some cosmetic fixes
+    
+    * escape instances of member.display_name
+
+[33mcommit be1bd6f2af22880e4d7343f4cf2ec9322d5b2b0b[m
+Author: Mislav Blažević <mislav.blazevic5@gmail.com>
+Date:   Thu Jul 15 16:19:28 2021 +0200
+
+    Fix @everyone exploit (#465)
+
+[33mcommit d6a2fc1622416e2385ffbebb59303da791c0d70d[m
+Author: Wasim Raja <wasim7raja10@gmail.com>
+Date:   Sat Jun 12 17:36:31 2021 +0530
+
+    Update Docker.md (#461)
+
+[33mcommit a64faa14deb1e675d3fe8a6890047050be08c555[m
+Author: Mislav Blažević <mislav.blazevic5@gmail.com>
+Date:   Tue Apr 6 17:18:26 2021 +0200
+
+    Fix #452 (#453)
+    
+    It is required to run `;roleupdate now` to regenerate the cache
+
+[33mcommit 73ecd10d6a3c3d356d92a3c7f4acbdc310012a58[m
+Author: Mislav Blažević <mislav.blazevic5@gmail.com>
+Date:   Mon Apr 5 20:17:15 2021 +0200
+
+    Chunkify ;cache ratingchanges all (#451)
+    
+    * Chunkify ;cache ratingchanges all
+    
+    * Fix
+
+[33mcommit 236e77ec598c2ae0bf6cc8db6464c2cb2588f377[m
+Author: Prabowo Djonatan <prabowo1048576@gmail.com>
+Date:   Fri Mar 26 08:03:47 2021 +0800
+
+    Add notes on cache (#449)
+
+[33mcommit 446edd399ff8ce5510f40612e0e7c14ab8a25ca5[m
+Author: Prabowo Djonatan <prabowo1048576@gmail.com>
+Date:   Fri Mar 26 08:03:30 2021 +0800
+
+    Configurable TLE admin role name (#450)
+    
+    * Configurable TLE admin role name
+    
+    * Add TLE_ADMIN and TLE_MODERATOR env var to README
+
+[33mcommit 272717167c37874ea0fcf754d376b9d6276a60f5[m
+Author: PotatoHashing <pflachow@gmail.com>
+Date:   Tue Mar 2 12:06:52 2021 -0800
+
+    Improve logging output (#436)
+    
+    * Add ;duel selfregister command enabled by env var
+    
+    Some servers prefer duelists register themselves instead of mods/admins registering them.
+    
+    * Change list of env vars to bulletted list
+    
+    * Add Embed for logging messages and jump links and other improvements.
+    
+    * Run formatter on changed files.
+    
+    * Fixes suggested by reviewer and ran formatter.
+    
+    * Made fixes requested by reviewer.
+    
+    * Combine Original command and Jump Url into the same message.
+    
+    * Made additional reviewer suggested changes
+    
+    * asfadasfwas
+
+[33mcommit 971a42aeea7be05c8ede45290bf5ed2a37c59130[m
+Author: Shahraaz Hussain <shahraazhussain@gmail.com>
+Date:   Sun Feb 21 23:37:53 2021 +0530
+
+    Enhance Dockerfile to make container persistent and UPD Docker.md accordingly (#446)
+    
+    * Upd Docker.md to make storage persistant &&  Dockerfile to reduce build time using cache
+    
+    * Upd Docker.md to add more information needed for running and debugging
+    
+    * Add tags <,> and install sqlite3 by default inside container
+
+[33mcommit 77bdbab245837febc5e575d3be17962983da3185[m
+Author: Anton Älgmyr <algmyr@student.chalmers.se>
+Date:   Sat Feb 20 21:26:50 2021 +0100
+
+    Refactor the unmagic code to be more generally useful (#445)
+
+[33mcommit 9081ac47ea90fbaf45978357265b7e26d04c2431[m
+Author: Mislav Blažević <mislav.blazevic5@gmail.com>
+Date:   Mon Feb 15 22:00:05 2021 +0100
+
+    Fix previous commit
+    
+    _query_api parameter was renamed from params to data
+
+[33mcommit 5e1332b19f87571b314e7aec4f3a9891bb203779[m
+Author: Anton Älgmyr <algmyr@student.chalmers.se>
+Date:   Mon Feb 15 21:20:52 2021 +0100
+
+    Switch cf api queries to use POST request (#437)
+    
+    * Switch cf api queries to use POST request
+    
+    * Make requested fixes
+
+[33mcommit feb294758fe434a8270b07a8e066ae2962204e08[m
+Author: Mohammad Yasser <mohammadyasser3@gmail.com>
+Date:   Sun Jan 31 01:35:41 2021 +0200
+
+    Fix typos (#442)
+
+[33mcommit a67ac75711e9810a1e5c52bea7c70d04b771c82f[m
+Author: Abdelrahman Naser <abdonaser_97@outlook.com>
+Date:   Sun Jan 31 01:22:02 2021 +0200
+
+    Dockerizing the bot (#440)
+    
+    * [ADD] Dockerfile
+    
+    * Update Dockerfile
+    
+    * [ADD] Docker.md
+    
+    Instructions to run the bot inside a docker container
+    
+    * Update README.md
+    
+    * Update Docker.md
+
+[33mcommit 275e30550d2d1e98adcf6c4d88a8185a221ad43c[m
+Author: Cheran <cheran.v.senthil@gmail.com>
+Date:   Mon Jan 18 00:38:47 2021 -0500
+
+    Bump License (#434)
+
+[33mcommit 266b0debaa3ba5854133d8e6873f063ef44b9c90[m
+Author: Anton Älgmyr <algmyr@student.chalmers.se>
+Date:   Wed Jan 13 20:42:07 2021 +0100
+
+    Fix unmagic failure for case changes (#429)
+    
+    Just looking at the redirect you don't detect case changes.
+    Added logic to also check case changes and refactored logic a bit.
+
+[33mcommit f6a612ad287559e31d08be34d63a40d8a6a03441[m
+Author: Anton Älgmyr <algmyr@student.chalmers.se>
+Date:   Wed Jan 6 18:32:52 2021 +0100
+
+    Add commands to handle cf magic (user name change) (#428)
+    
+    * Add commands to handle cf magic (user name change)
+    
+    Follows the cf profile link to find the new user name.  Includes a
+    command to try to resolve redirects for the whole guild.  This uses the
+    fact that user.info returns the first failing user name in its response.
+    
+    * Go through users in db, rather than users in server
+    
+    * First wave of fixes
+    
+    * Revert import ordering for now
+    
+    * Docstrings and only use one query to get the redirect
+
+[33mcommit 8ed38407986ebc76fbcf116e3da4248b71f3e093[m
+Author: Mislav Blažević <mislav.blazevic5@gmail.com>
+Date:   Mon Dec 28 16:55:17 2020 +0100
+
+    Fix #384 (#426)
+
+[33mcommit 367680ece5ed6f5f5a7658c72bcf9de6f81f55f1[m
+Author: Mislav Blažević <mislav.blazevic5@gmail.com>
+Date:   Mon Dec 28 15:49:35 2020 +0100
+
+    Fix #395
+
+[33mcommit 9dc7422449f71a2f578432d153d7f9dc150cccf3[m
+Author: Mislav Blažević <mislav.blazevic5@gmail.com>
+Date:   Sun Dec 27 23:12:54 2020 +0100
+
+    Paginate ;vc. Closes #355 (#424)
+
+[33mcommit f05b67dad2e0eb460904a2b7d4c7199356d38a47[m
+Author: Mislav Blažević <mislav.blazevic5@gmail.com>
+Date:   Sun Dec 27 23:09:06 2020 +0100
+
+    Add +peak to ;teamrate usage
+
+[33mcommit 54b0590391b91a1d97ea4001ff34b2f747af03b9[m
+Author: Abdul Awal Nadim <72213356+aa-nadim@users.noreply.github.com>
+Date:   Mon Dec 28 04:04:08 2020 +0600
+
+    Automatically convert CRLF to LF
+
+[33mcommit 2aacd0a591000f75990d8a94d8942dda836ec36b[m
+Author: Mislav Blažević <mislav.blazevic5@gmail.com>
+Date:   Sun Dec 27 21:28:01 2020 +0100
+
+    Fix #264 (#423)
+
+[33mcommit 6f1190fcc858ab2fd4dc609b24b14c9609e61063[m
+Author: Mislav Blažević <mislav.blazevic5@gmail.com>
+Date:   Sun Dec 27 21:23:12 2020 +0100
+
+    Improve ;plot centile (#421)
+    
+    * Improve ;plot centile
+    
+    * fix
+    
+    * fix
+    
+    * cosmetic
+    
+    * fix
+    
+    * fix
+    
+    * fix
+    
+    * fix
+
+
